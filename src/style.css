@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url('./assets/mountains.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:100vh;
+  width:100vw;
+}
+.container{
+  width:80%;
+  margin:50px auto;
+}
+
+h1{
+  color:rgb(66,67,140)
+}
